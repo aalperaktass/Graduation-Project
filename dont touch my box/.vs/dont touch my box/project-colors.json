@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22539c94-aea3-36fe-7bdb-4bc90fab545a": {
+      "ProjectGuid": "22539c94-aea3-36fe-7bdb-4bc90fab545a",
+      "DisplayName": "PhotonRealtime",
+      "ColorIndex": 0
+    },
+    "d55a2ff0-abcc-0c13-b558-aa17b4e83286": {
+      "ProjectGuid": "d55a2ff0-abcc-0c13-b558-aa17b4e83286",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "32be31cf-92f8-804d-5ecf-1ddb08e98403": {
+      "ProjectGuid": "32be31cf-92f8-804d-5ecf-1ddb08e98403",
+      "DisplayName": "PhotonUnityNetworking",
+      "ColorIndex": 2
+    },
+    "89c26f64-9a91-e4e0-5b88-44db3356288f": {
+      "ProjectGuid": "89c26f64-9a91-e4e0-5b88-44db3356288f",
+      "DisplayName": "PhotonUnityNetworking.Editor",
+      "ColorIndex": 3
+    },
+    "40754fb9-b98e-ffa4-475f-60764fb8a17c": {
+      "ProjectGuid": "40754fb9-b98e-ffa4-475f-60764fb8a17c",
+      "DisplayName": "PhotonUnityNetworking.Utilities",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
